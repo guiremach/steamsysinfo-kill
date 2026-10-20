@@ -21,6 +21,9 @@ Start Steam and stop steamsysinfo.exe that consume a lot CPU and crash games.
 
 Delete the file.
 
+## Know issues
+- [Steam Updtes] -  If there is an update for Steam, it is best to perform the update using the standard Steam launcher; once the update is complete, exit Steam and then run the .bat file.
+
 ## License
 
 MIT License.
